@@ -36,7 +36,7 @@ public class LoginIpmPage extends TestBase {
 		submit.click();
 
 	}
-
+/*we are checking message*/
 	public String getMessage() {
 
 		BasePageObject.waitForElement(20, message);
