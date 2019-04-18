@@ -1,0 +1,69 @@
+2017-08-17 22:02:25 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-17 22:02:28 INFO  HomePage:37 - clickon sigin button[[ChromeDriver: chrome on XP (a2603d9ad59ba08469a02ffdbad4f0c2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-08-17 22:02:28 INFO  HomePage:39 - enter email adderess[[ChromeDriver: chrome on XP (a2603d9ad59ba08469a02ffdbad4f0c2)] -> xpath: //*[@id='email']]
+2017-08-17 22:02:28 INFO  HomePage:41 - enter password[[ChromeDriver: chrome on XP (a2603d9ad59ba08469a02ffdbad4f0c2)] -> xpath: //*[@id='passwd']]
+2017-08-17 22:02:29 INFO  HomePage:43 - clickon submit button[[ChromeDriver: chrome on XP (a2603d9ad59ba08469a02ffdbad4f0c2)] -> id: SubmitLogin]
+2017-08-17 22:02:29 INFO  HomePage:47 - error message isAuthentication failed.
+2017-08-17 22:02:29 INFO  TC001_VerifyLoginWithInvalidCredentials:30 - ----Finished VerifyLoginWithInvalidCredentials  Test
+2017-08-18 21:56:42 INFO  TestBase:23 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-18 22:21:02 INFO  TestBase:22 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-18 22:22:42 INFO  TestBase:22 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 13:54:42 INFO  TestBase:22 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:03:33 INFO  TestBase:24 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:16:49 INFO  TestBase:24 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:24:08 INFO  TestBase:24 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:30:57 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:32:38 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:36:14 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:38:50 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:43:53 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-19 14:45:56 INFO  TestBase:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-08-20 15:21:09 INFO  TestBase:25 - ----Starting registration page
+2017-08-20 15:32:03 INFO  TestBase:25 - ----Starting registration page
+2017-08-20 15:37:46 INFO  TestBase:25 - ----Starting registration page
+2017-08-30 22:48:03 INFO  TestBase:48 - creating object of chrome
+2017-08-30 22:48:06 INFO  TestBase:59 - navigating tohttp://automationpractice.com/index.php
+2017-08-30 22:57:13 INFO  TestBase:48 - creating object of chrome
+2017-08-30 22:57:15 INFO  TestBase:59 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:14:10 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:14:14 INFO  HomePage:42 - clickon sigin button[[ChromeDriver: chrome on XP (adfb6b7ec9739615449467ad58ab9aaf)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-06 21:14:14 INFO  HomePage:44 - enter email adderess[[ChromeDriver: chrome on XP (adfb6b7ec9739615449467ad58ab9aaf)] -> xpath: //*[@id='email']]
+2017-09-06 21:14:14 INFO  HomePage:46 - enter password[[ChromeDriver: chrome on XP (adfb6b7ec9739615449467ad58ab9aaf)] -> xpath: //*[@id='passwd']]
+2017-09-06 21:14:16 INFO  HomePage:48 - clickon submit button[[ChromeDriver: chrome on XP (adfb6b7ec9739615449467ad58ab9aaf)] -> id: SubmitLogin]
+2017-09-06 21:14:16 INFO  HomePage:52 - error message isAuthentication failed.
+2017-09-06 21:14:16 INFO  TC001_VerifyLoginWithInvalidCredentials:31 - ----Finished VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:14:21 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:14:21 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:14:23 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:14:23 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:19:57 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:20:00 INFO  HomePage:42 - clickon sigin button[[ChromeDriver: chrome on XP (376285d886667b08283288c2c8b133e9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-06 21:20:02 INFO  HomePage:44 - enter email adderess[[ChromeDriver: chrome on XP (376285d886667b08283288c2c8b133e9)] -> xpath: //*[@id='email']]
+2017-09-06 21:20:02 INFO  HomePage:46 - enter password[[ChromeDriver: chrome on XP (376285d886667b08283288c2c8b133e9)] -> xpath: //*[@id='passwd']]
+2017-09-06 21:20:04 INFO  HomePage:48 - clickon submit button[[ChromeDriver: chrome on XP (376285d886667b08283288c2c8b133e9)] -> id: SubmitLogin]
+2017-09-06 21:20:04 INFO  HomePage:52 - error message isAuthentication failed.
+2017-09-06 21:20:04 INFO  TC001_VerifyLoginWithInvalidCredentials:31 - ----Finished VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:20:05 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:34750: Connection reset
+2017-09-06 21:20:05 INFO  RetryExec:113 - Retrying request to {}->http://localhost:34750
+2017-09-06 21:35:53 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:35:55 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:36:10 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:36:13 INFO  HomePage:42 - clickon sigin button[[ChromeDriver: chrome on XP (e6e8100a261375874f5eec16cdacc627)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-06 21:36:13 INFO  HomePage:44 - enter email adderess[[ChromeDriver: chrome on XP (e6e8100a261375874f5eec16cdacc627)] -> xpath: //*[@id='email']]
+2017-09-06 21:36:13 INFO  HomePage:46 - enter password[[ChromeDriver: chrome on XP (e6e8100a261375874f5eec16cdacc627)] -> xpath: //*[@id='passwd']]
+2017-09-06 21:36:15 INFO  HomePage:48 - clickon submit button[[ChromeDriver: chrome on XP (e6e8100a261375874f5eec16cdacc627)] -> id: SubmitLogin]
+2017-09-06 21:36:15 INFO  HomePage:52 - error message isAuthentication failed.
+2017-09-06 21:36:15 INFO  TC001_VerifyLoginWithInvalidCredentials:31 - ----Finished VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:36:17 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:36:19 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:41:02 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:41:03 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php
+2017-09-06 21:41:21 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ----Starting VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:41:24 INFO  HomePage:42 - clickon sigin button[[ChromeDriver: chrome on XP (e7efb41028109cf79591345bd52f9708)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-06 21:41:24 INFO  HomePage:44 - enter email adderess[[ChromeDriver: chrome on XP (e7efb41028109cf79591345bd52f9708)] -> xpath: //*[@id='email']]
+2017-09-06 21:41:24 INFO  HomePage:46 - enter password[[ChromeDriver: chrome on XP (e7efb41028109cf79591345bd52f9708)] -> xpath: //*[@id='passwd']]
+2017-09-06 21:41:25 INFO  HomePage:48 - clickon submit button[[ChromeDriver: chrome on XP (e7efb41028109cf79591345bd52f9708)] -> id: SubmitLogin]
+2017-09-06 21:41:25 INFO  HomePage:52 - error message isAuthentication failed.
+2017-09-06 21:41:25 INFO  TC001_VerifyLoginWithInvalidCredentials:31 - ----Finished VerifyLoginWithInvalidCredentials  Test
+2017-09-06 21:41:27 INFO  TestBase:75 - creating object of chrome
+2017-09-06 21:41:29 INFO  TestBase:88 - navigating tohttp://automationpractice.com/index.php

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Shruti" name="com.test.automation.uiAutomation.registrationPage.TC003_VerifyLoginWithDifferentData" tests="2" failures="2" timestamp="21 Aug 2017 16:04:56 GMT" time="24.513" errors="0">
+  <testcase name="verifyLoginData" time="4.139" classname="com.test.automation.uiAutomation.registrationPage.TC003_VerifyLoginWithDifferentData">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;Login - My Store&amp;gt; but was:&amp;lt;My account - My Store&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<Login - My Store> but was:<My account - My Store>
+	at com.test.automation.uiAutomation.registrationPage.TC003_VerifyLoginWithDifferentData.verifyLoginData(TC003_VerifyLoginWithDifferentData.java:29)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="verifyLoginData" time="3.073" classname="com.test.automation.uiAutomation.registrationPage.TC003_VerifyLoginWithDifferentData">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;Login - My Store&amp;gt; but was:&amp;lt;My account - My Store&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<Login - My Store> but was:<My account - My Store>
+	at com.test.automation.uiAutomation.registrationPage.TC003_VerifyLoginWithDifferentData.verifyLoginData(TC003_VerifyLoginWithDifferentData.java:29)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

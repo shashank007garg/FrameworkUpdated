@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="password" value="Sport@1234"/>
+  <parameter name="username" value="gargsh"/>
+  <listeners>
+    <listener class-name="com.test.automation.uiAutomation.customListener.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <parameter name="password" value="Sport@1234"/>
+    <parameter name="username" value="gargsh"/>
+    <classes>
+      <class name="com.test.automation.uiAutomation.outlookMail.PasscodeRead">
+        <methods>
+          <include name="passcodeRead"/>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.outlookMail.PasscodeRead -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
